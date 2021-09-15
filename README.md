@@ -1,4 +1,4 @@
-Message Genie Discord Bot 🧞
+# Message Genie Discord Bot 🧞
 
 # Commands:
 
