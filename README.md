@@ -1,3 +1,5 @@
+Message Genie Discord Bot 🧞
+
 # Commands:
 
 *    ${prefix}write <name> <value> - writes a custom message
